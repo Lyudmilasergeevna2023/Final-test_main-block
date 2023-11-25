@@ -1,0 +1,14 @@
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\bin\Debug\net7.0\Final-test_main-block.exe
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\bin\Debug\net7.0\Final-test_main-block.deps.json
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\bin\Debug\net7.0\Final-test_main-block.runtimeconfig.json
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\bin\Debug\net7.0\Final-test_main-block.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\bin\Debug\net7.0\Final-test_main-block.pdb
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.AssemblyInfoInputs.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.AssemblyInfo.cs
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.csproj.CoreCompileInputs.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\refint\Final-test_main-block.dll
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.pdb
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\Final-test_main-block.genruntimeconfig.cache
+C:\Users\afana\Desktop\Учеба\1 ЧЕТВЕРТЬ\Final_test\Final-test_main-block\obj\Debug\net7.0\ref\Final-test_main-block.dll
